@@ -1,0 +1,13 @@
+# Contributing
+
+Thank you for your interest in contributing to this project.
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes.
+4. Test your changes.
+5. Submit a pull request with a clear description.
+
+Please ensure that your contributions are respectful and follow the project's Code of Conduct.
